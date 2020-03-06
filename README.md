@@ -5,5 +5,5 @@ Jump between [Vjudge](https://www.vjudge.net) [Luogu](https://www.luogu.com.cn) 
 
 Jump between old UI and new UI of an Atcoder problem.
 # Picture
-![p1](p1.png)
-![p2](p2.png)
+![p1](p1.PNG)
+![p2](p2.PNG)
