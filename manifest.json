@@ -1,0 +1,16 @@
+{
+  "name": "CP Jumper",
+  "description": "Jump to another page of CP",
+  "version": "1.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [ 
+    {
+      "js": ["background.js" ],
+      "matches": ["https://*.codeforces.com/*","http://*.codeforces.com/*","https://*.atcoder.jp/*","http://*.atcoder.jp/*"],
+      "run_at":"document_idle"
+    } 
+  ],
+  "manifest_version": 2
+}
