@@ -7,3 +7,7 @@ Jump between old UI and new UI of an Atcoder problem.
 # Picture
 ![p1](p1.PNG)
 ![p2](p2.PNG)
+# Install
+Go to releases and download the CRX. Double click or drag it into your Chrome to install! 
+
+Some Chrome may not support this. In this situation, you may need to install as developers.
