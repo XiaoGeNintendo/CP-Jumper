@@ -15,3 +15,5 @@ Some Chrome may not support this. In this situation, you may need to install as 
 ![install](https://cdn.discordapp.com/attachments/549589132415074314/685679148764889158/quick.gif)
 
 Thanks CF user [tuwuna](https://codeforces.com/profile/tuwuna) for making the GIF!
+# Contribute
+If you are feeling surprisingly generous today, you can support us on [pay.xizcm.site](https://pay.xizcm.site)
