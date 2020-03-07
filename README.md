@@ -11,3 +11,7 @@ Jump between old UI and new UI of an Atcoder problem.
 Go to releases and download the CRX. Double click or drag it into your Chrome to install! 
 
 Some Chrome may not support this. In this situation, you may need to install as developers.
+
+![install](https://cdn.discordapp.com/attachments/549589132415074314/685679148764889158/quick.gif)
+
+Thanks CF user [tuwuna](https://codeforces.com/profile/tuwuna) for making the GIF!
